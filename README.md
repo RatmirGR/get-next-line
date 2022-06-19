@@ -1,4 +1,4 @@
-<h4>Project name:</h4><h2> get-next-line</h2>
+<p><h3>Project name:</h3><h2> get-next-line</h2></p>
 
 Project description:
  - This project make you learn a highly interesting new concept in C programming: static variables.
