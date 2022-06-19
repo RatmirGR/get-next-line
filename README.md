@@ -1,10 +1,10 @@
 <h3>Project name:</h3>
 <h2> get-next-line</h2>
 
-<b>Project description:</b>
+<p><ins>Project description:</ins></p>
  - This project make you learn a highly interesting new concept in C programming: static variables.
-
-<b>Task:</b>
+<p></p>
+<p><ins>Task:</ins></p>
 <p>• Repeated calls (e.g., using a loop) to your get_next_line() function should let you read the text file pointed to by the file descriptor, one line at a time.</p>
 <p>• Your function should return the line that was read. If there is nothing else to read or if an error occurred, it should return NULL.</p>
 <p>• Make sure that your function works as expected both when reading a file and when reading from the standard input.</p>
@@ -17,7 +17,7 @@
 end of file.</p>
 <p>• We also consider that get_next_line() has an undefined behavior when reading a binary file. However, you can implement a logical way to handle this behavior if you want to.</p>
 
-<p>Bonus part</p>
+<p><ins>Bonus part</ins></p>
 <p>Here are the bonus part requirements:</p>
 <p>• Develop get_next_line() using only one static variable.</p>
 <p>• Your get_next_line() can manage multiple file descriptors at the same time.</p>
