@@ -4,7 +4,7 @@
 <b>Project description:</b>
  - This project make you learn a highly interesting new concept in C programming: static variables.
 
-<b>A task:</b>
+<b>Task:</b>
 <p>• Repeated calls (e.g., using a loop) to your get_next_line() function should let you read the text file pointed to by the file descriptor, one line at a time.</p>
 <p>• Your function should return the line that was read. If there is nothing else to read or if an error occurred, it should return NULL.</p>
 <p>• Make sure that your function works as expected both when reading a file and when reading from the standard input.</p>
