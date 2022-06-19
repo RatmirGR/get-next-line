@@ -17,7 +17,7 @@
 end of file.</p>
 <p>• We also consider that get_next_line() has an undefined behavior when reading a binary file. However, you can implement a logical way to handle this behavior if you want to.</p>
 
-<p>Bonus part</p>
+<u>Bonus part</u>
 <p>Here are the bonus part requirements:</p>
 <p>• Develop get_next_line() using only one static variable.</p>
 <p>• Your get_next_line() can manage multiple file descriptors at the same time.</p>
