@@ -1,7 +1,7 @@
 <h3>Project name:</h3>
 <h2> get-next-line</h2>
 
-<b><u>Project description:</u></b>
+<u><b>Project description:</b></u>
  - This project make you learn a highly interesting new concept in C programming: static variables.
 <p>  </p>
 <b>A task:</b>
